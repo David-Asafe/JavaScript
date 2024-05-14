@@ -1,2 +1,2 @@
-const quadrado = (x) => X * X;
+const quadrado = X => X * X;
 console.log(quadrado(7)); // Saída: 49
