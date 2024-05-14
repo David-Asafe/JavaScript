@@ -7,5 +7,5 @@ function calcularPontuacaoTotal(pontuacoes) {
 }
 // Array de pontuações do jogador
 const pontuacoesDoJogador = [10, 15, 20, 5, 8];
-// Chamando a função para calcular a pontuação total do jogador
 calcularPontuacaoTotal(pontuacoesDoJogador);
+// Chamando a função para calcular a pontuação total do jogador
