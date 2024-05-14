@@ -4,10 +4,10 @@ const soma = (numero1, numero2) => numero1 + numero2;
 // Arrow function que subtrai dois números
 const subtracao = (numero1, numero2) => numero1 - numero2;
 
-// Arrow function que subtrai dois números
+// Arrow function que multiplicação dois números
 const multiplicacao = (numero1, numero2) => numero1 * numero2;
 
-// Arrow function que subtrai dois números
+// Arrow function que divisão dois números
 const divisao = (numero1, numero2) => numero1 / numero2;
 
 // Arrow function executarOperacao que recebe dois números e uma função de callback
